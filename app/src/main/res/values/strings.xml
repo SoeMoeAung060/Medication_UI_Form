@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UIForm</string>
+    <string name="add_mediation">Add Mediation</string>
+    <string name="medication_name">Medication Name</string>
+    <string name="dosage">Dosage</string>
+    <string name="recurrence">Recurrence</string>
+    <string name="end_Date">End Date</string>
+    <string name="time_of_day">Time of Day</string>
+    <string name="success">Medication successfully save.</string>
+    <string name="value_is_empty">Please, Enter a valid value %s</string>
+    <string name="save">Save</string>
+</resources>
